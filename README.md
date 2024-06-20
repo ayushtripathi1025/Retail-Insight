@@ -1,4 +1,4 @@
-# BigMart Sales Prediction Model Documentation
+# Retail Insight Model Documentation
 
 ## Overview
 
